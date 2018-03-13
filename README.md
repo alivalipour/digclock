@@ -1,1 +1,1 @@
-design a digital clock with Linearlayout(university of bojnord)
+ a digital clock design with Linearlayout (university of bojnord)
